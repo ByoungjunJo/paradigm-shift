@@ -1,0 +1,51 @@
+h2{
+margin: 0;
+color: #665d5d;
+padding-top: 90px;
+font-size: 52px;
+font-family: "trebuchet ms", sans-serif;
+}
+h3{
+color: #665d5d;
+}
+.item{
+background: #e2e0e0;
+text-align: center;
+height: 360px !important;
+}
+.carousel{
+margin-top: 60px;
+
+}
+.myrow{
+margin-top:10px;
+margin-bottom:0px;
+}
+.mypanel{
+margin-top:0px;
+}
+body{
+  background-image: url("https://scontent.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/s720x720/12189537_861521360622720_6355774722142236350_n.jpg?oh=38f4cf6bfebb9b05ab26827e3b2dc114&oe=56C56A88");
+  color: #6C6C6C;
+}
+
+.nav-color{
+  background-color: #F8DC85;
+  color: #FFFFFF;
+}
+
+h2 {
+    color:#069;
+}
+.menu-color{
+  color:#FFFFFF;
+}
+.background-image {
+   background:rgba(255,255,255,0.9);
+   height: 600px;
+   font-size: 20px;
+
+}
+.button-color{
+  color:#000000;
+}
